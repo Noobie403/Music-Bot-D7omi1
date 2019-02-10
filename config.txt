@@ -1,0 +1,6 @@
+owner=468322697173270538
+prefix=h
+game=Break | hplay
+stayinchannel=true
+songinstatus=false
+token=NTQ0MTM4Nzk3NzI2Njk1NDM1.D0GyBA.0daMtjnmDIec_hpxNIIm04QLGDM
